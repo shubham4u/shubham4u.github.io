@@ -1,6 +1,5 @@
-<!---
 # shubham4u.github.io
-Markdown_Mkdocs -->
+<!--- Markdown_Mkdocs -->
 # Shubham Jadhav - Senior Software Engineer Resume
 
 ## Contact Information
