@@ -5,9 +5,9 @@ Markdown_Mkdocs -->
 
 ## Contact Information
 - Email: sr.jadhav@outlook.com
-<!--- Phone: (+353) 0899784196 -->
-<!---
-## Visa Status
+<!--- - Phone: (+353) 0899784196  -->
+
+<!--- ## Visa Status
 I will be eligible to work full-time without requiring sponsorship starting from January 2024, while holding a Stamp 1G visa.
 -->
 ## Summary
